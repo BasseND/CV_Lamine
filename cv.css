@@ -133,3 +133,21 @@
         font-weight:normal;
         color:black;
     }
+
+    /* LES COMMANDES GIT POUR METTRE EN LIGNE SUR GITHUB */
+
+    /* 
+    git init
+    git status
+    git add .
+    git commit -m "Premier commit"
+    git remote add origin https://github.com/BasseND/CV_Lamine.git  // Lien github
+    git push --set-upstream origin master
+
+    */
+
+    /*  METTRE EN LIGNE LE CV SUR netlify.com */
+    /* 
+    1. Créer un compte avec Github // 
+    
+    */
